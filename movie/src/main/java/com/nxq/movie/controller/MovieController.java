@@ -1,6 +1,6 @@
 package com.nxq.movie.controller;
 
-import com.nxq.movie.domain.Movie;
+import com.nxq.movie.entity.Movie;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

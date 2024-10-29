@@ -1,4 +1,4 @@
-package com.nxq.movie.domain;
+package com.nxq.movie.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
